@@ -102,16 +102,10 @@ Méthodes :
 - rechercher(titre) : retourne le document correspondant au titre
 ## 🖥️ Example Execution
 
-
-### Séparer proprement une classe unique :
-
-### Mini-bibliothèque géométrique : 
-
-### Création d’une librairie statique (.a) ou partagée (.so) :
-
-### Classe template et fichier d’en-tête uniquement :
-
-
+### Gestion des employés :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/c0b55805-2a9b-4481-b4b8-7d65a9335309" />
+### Bibliothèque : 
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/90f1563f-3c58-404b-92dc-034f6770d5ac" />
 ## 💡 Concepts Practiced
 
 - Utiliser l’héritage pour factoriser et spécialiser les comportements
